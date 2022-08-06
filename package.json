@@ -14,8 +14,8 @@
     "@babel/core": "^7.18.10",
     "@emotion/babel-preset-css-prop": "^11.10.0",
     "@emotion/react": "^11.10.0",
+    "@netlify/plugin-nextjs": "^4.14.1",
     "next": "^12.2.4",
-    "next-on-netlify": "^3.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
